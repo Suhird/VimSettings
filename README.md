@@ -1,2 +1,2 @@
 # VimSettings
-This repo has my neovim config file
+This repo has my vim/neovim config file
